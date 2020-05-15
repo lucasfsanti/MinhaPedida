@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ad1457</color>
+    <color name="colorPrimaryDark">#78002e</color>
+    <color name="colorAccent">#fcdce4</color>
+    <color name="backgroundEditField">#DDD</color>
+    <color name="colorButton">#ad1457</color>
+</resources>

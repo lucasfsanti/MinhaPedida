@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Minha Pedida</string>
+    <string name="my_command">Minha Comanda</string>
+    <string name="add_product_btn">Adicionar Produto</string>
+    <string name="clear_list_btn">Limpar Lista</string>
+    <string name="total">Total: </string>
+    <string name="price_unit" translatable="false">R$</string>
+    <string name="manage_products">Gerenciar Produtos</string>
+    <string name="add_product">Adicionar Produto</string>
+    <string name="product">Produto</string>
+    <string name="quantity">Quantidade</string>
+    <string name="send">Enviar</string>
+    <string name="warn_invalid_command_item">Pedido inválido! Selecione um produto e uma quantidade maior que 0.</string>
+    <string name="error_persisting_command_item">Erro ao cadastrar pedido na comanda!</string>
+    <string name="error_listing_all_commanditems">Erro ao listar todos os pedidos da comanda!</string>
+    <string name="product_name">Nome do Produto:</string>
+    <string name="price">Preço:</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Salvar</string>
+    <string name="error_listing_all_active_products">Erro ao listar produtos!</string>
+    <string name="error_saving_product">Erro ao salvar Produto!</string>
+    <string name="invalid_product_name">Nome inválido!</string>
+    <string name="invalid_product_price">Preço invalido!</string>
+    <string name="confirm_delete_product">Excluir Produto</string>
+    <string name="confirm_delete_commanditem">Excluir Pedido</string>
+    <string name="you_wish_to_delete">"Deseja excluir "</string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+    <string name="error_deleting_product">Erro ao deletar Produto!</string>
+    <string name="close">Fechar</string>
+    <string name="error_deleting_commanditem">Erro ao deletar pedido!</string>
+</resources>
